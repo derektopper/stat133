@@ -2,6 +2,7 @@
 title: "Lab 8"
 output: html_notebook
 ---
+This is the submission for Derek Topper for Stat 133.
 
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
 
